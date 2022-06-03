@@ -1,8 +1,7 @@
-let a;
 const n = prompt("숫자를 입력해주세요");
 
-if(a%3 == 0){
+if(n%3 == 0){
     console.log("짝");
 }else{
-    console.log(a/3);
+    console.log(n);
 }
