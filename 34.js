@@ -7,3 +7,4 @@ function answer(heights) {
       console.log("YES");
     }
   }
+}
