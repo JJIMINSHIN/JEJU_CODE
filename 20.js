@@ -10,4 +10,4 @@ function cal(num, a, b){
 
 }
 
-cal()
+cal();
