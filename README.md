@@ -3,6 +3,7 @@
 
 <img width ="30%" src="https://user-images.githubusercontent.com/86641936/175908388-922635fd-0ce2-4015-94bb-41ffecdca201.png">
 
+# 자세한 해설은 아래의 링크를 방문해주세요.
 ---
 
 [1 - 10번](https://velog.io/@scalla31/%EC%A0%9C%EC%A3%BC%EC%BD%94%EB%94%A9%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%BA%A0%ED%94%84-1-10%EB%B2%88)<br>
